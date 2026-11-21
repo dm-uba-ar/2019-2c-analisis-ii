@@ -1,20 +1,33 @@
-# Análisis II — Segundo cuatrimestre de 2019
+# Análisis II - Análisis Matemático II - Matemática 3
 
-## Prácticas
+Segundo cuatrimestre 2019
 
-- [Práctica 0](P0-2C2018.pdf)
-- [Práctica 1](P1-2C2018.pdf)
-- [Práctica 2](P2-2C2018.pdf)
-- [Práctica 3](P3-2C2018.pdf)
-- [Práctica 4](P4-2C2018.pdf)
-- [Práctica 5](P5-2C2018.pdf)
-- [Práctica 6](P6-2C2018.pdf)
-- [Práctica 7](P7-2C2018.pdf)
+---
 
-## Apuntes y notas
+Bienvenidos a la materia Análisis II (Matemática)/Análisis Matemático II (Química)/Matemática 3 (Física y Cs. de la Atmósfera).\
+En este lugar iremos subiendo novedades de la materia. Les sugerimos consultar la página periódicamente.
 
-- [APUNTE DE CURVAS](AIIM3.pdf)
+---
 
-## Página original
+### Novedades
 
-[Página de la cursada en el CMS](https://cms.dm.uba.ar/academico/materias/2docuat2019/analisis_II)
+\
+
+- (04/12) Turno mañana: entregamos los segundos parciales a partir de las 15hs durante el recuperatorio del primer parcial (Miércoles 4 de Diciembre, Aula 9 Pab. 1).
+- (20/11) Están confirmadas las aulas para el segundo parcial y los recuperatorios.
+  - Segundo parcial: Aula Magna, Pab. 1
+  - Primer recuperatorio: Aula 9, Pab. 1
+  - Segundo recuperatorio: Aula 3, Pab. 1
+- (30/07) Están confirmadas las fechas de parciales y recuperatorios. Tengan presente que el primer y segundo parcial son en día SABADO. Los recuperatorios son entre semana.
+
+---
+
+### Docentes, Horarios y Aulas
+
+\
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Teórica 1 | Lu-Mi 9 a 11 | [Guillermo Henry](mailto:ghenry@dm.uba.ar) | Lu: Aula 2, Pab. 2 | Mi: Aula 3, Pab. 1 |
+| Práctica 1 | Lu-Mi 11 a 14 | [Carlos Alliera](mailto:chdalliera@yahoo.com.ar) — Nahuel Albarracín — [Kevin Piterman](mailto:kevinpiterman@gmail.com) — Nicolás Del Grosso | Lu: Aula 2, Pab. 2 | Mi: Aula 3, Pab. 1 |
+ Teórica 2 | Lu-Mi 14 a 16 | [Julián Fernández Bonder](mailto:jfbonder@dm.uba.ar) | Lu: Aula 9, Pab. 2 | Mi: Aula 10, Pab. 2 |
